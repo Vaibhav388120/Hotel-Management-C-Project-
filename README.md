@@ -1,1 +1,1 @@
-# Hotel Management-C++ Project
+# Hotel Management C++ Project
